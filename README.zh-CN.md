@@ -8,7 +8,7 @@
 
 ## 介绍
 
-> <kbd>使用这个模板</kbd>，一键生成标准Github仓库。
+> [![使用这个模板][use-this-template]][generate]，一键生成标准Github仓库。
 
 ## 背景
 
@@ -42,3 +42,5 @@
 [github-repo-url]: https://github.com/GithubTemplate/github-repository-template
 [license-image]: https://img.shields.io/badge/license-MIT-green.svg
 [github-repo-star-image]: https://img.shields.io/github/stars/GithubTemplate/github-repository-template.svg?style=social
+[use-this-template]: https://img.shields.io/badge/-use%20this%20template-brightgreen.svg
+[generate]: https://github.com/GithubTemplate/github-repository-template/generate

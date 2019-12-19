@@ -8,7 +8,7 @@
 
 ## Introduction
 
-> <kbd>use this template</kbd>, easy to generate Github repo.
+> [![use this template][use-this-template]][generate], easy to generate Github repo.
 
 ## Background
 
@@ -42,3 +42,5 @@ See [the contributing file](CONTRIBUTING.md)!
 [github-repo-url]: https://github.com/GithubTemplate/github-repository-template
 [license-image]: https://img.shields.io/badge/license-MIT-green.svg
 [github-repo-star-image]: https://img.shields.io/github/stars/GithubTemplate/github-repository-template.svg?style=social
+[use-this-template]: https://img.shields.io/badge/-use%20this%20template-brightgreen.svg
+[generate]: https://github.com/GithubTemplate/github-repository-template/generate
