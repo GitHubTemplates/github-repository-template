@@ -1,4 +1,4 @@
-name: CI
+name: GithubRepositoryTemplate
 
 on: [push]
 
