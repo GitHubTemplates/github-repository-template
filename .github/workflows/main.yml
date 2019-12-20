@@ -1,0 +1,36 @@
+name: GithubRepositoryTemplate
+
+on:
+  push:
+    branches: 
+      - master
+    paths:
+      - '!**.md'
+  pull_request:
+    branches: 
+      - master
+    paths:
+      - '!**.md'
+
+jobs:
+  build:
+    name: Build
+    strategy:
+      matrix:
+        runs-on: [ubuntu-latest, macOS-latest, windows-latest]
+      fail-fast: true
+
+    runs-on: ${{ matrix.runs-on }}
+
+    steps:
+    - uses: actions/checkout@v1
+    - name: Run a one-line script
+      run: echo Hello, world!
+    - name: Run a multi-line script
+      run: |
+        echo Add other actions to build,
+        echo test, and deploy your project.
+    - name: Hello world
+      uses: actions/hello-world-javascript-action@v1
+      with:
+        who-to-greet: 'Github Repository Template'
