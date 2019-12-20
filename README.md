@@ -19,7 +19,7 @@
 - [x] Feature item 1
 - [x] Feature item 2
 
-### UnDone
+### Undone
 
 - [ ] Feature item 3
 - [ ] Feature item 4
