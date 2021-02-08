@@ -10,7 +10,7 @@
 
 ## 背景
 
-您可以生成具有与现有仓库相同的目录结构和文件的新仓库。
+您可以生成具有与现有仓库相同的目录结构和文件的新仓库。如果有什么想法，欢迎来[讨论](https://github.com/GithubTemplate/github-repository-template/discussions)。
 
 [GitHub 说明地址](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template)
 

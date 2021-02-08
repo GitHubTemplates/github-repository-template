@@ -10,7 +10,7 @@
 
 ## Background
 
-You can generate a new repository with the same directory structure and files as an existing repository.
+You can generate a new repository with the same directory structure and files as an existing repository. If you have some idea, welcome to [discussion](https://github.com/GithubTemplate/github-repository-template/discussions).
 
 [GitHub Template Docs](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template)
 
