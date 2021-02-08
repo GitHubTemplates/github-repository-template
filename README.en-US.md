@@ -4,7 +4,7 @@
 [![license][license-image]](LICENSE)
 [![Github Star][github-repo-star-image]][github-repo-url]
 [![standard-readme compliant][standard-readme-image]](standard-readme-url)
-[![HitCount](http://hits.dwyl.com/GitHubTemplates/github-repository-template.svg)](http://hits.dwyl.com/GitHubTemplates/github-repository-template)
+[![ViewCount](http://hits.dwyl.com/GitHubTemplates/github-repository-template.svg)][github-repo-url]
 
 [Background](#background) | [Introduction](#introduction) | [Usage](#usage) | [Examples](#examples) | [Related Efforts](#related-efforts) | [Maintainers](#maintainers) | [Contributing](#contributing) | [License](#license) | [中文](README.md)
 
