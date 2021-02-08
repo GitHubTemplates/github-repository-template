@@ -6,7 +6,7 @@
 [![standard-readme compliant][standard-readme-image]](standard-readme-url)
 [![HitCount](http://hits.dwyl.com/GithubTemplate/github-repository-template.svg)](http://hits.dwyl.com/GithubTemplate/github-repository-template)
 
-[背景](#背景) | [介绍](#介绍) | [使用](#使用) | [示例](#示例) | [相关仓库](#相关仓库) | [维护者](#维护者) | [如何贡献](#如何贡献) | [协议](#协议) | [English](README.md)
+[背景](#背景) | [介绍](#介绍) | [使用](#使用) | [示例](#示例) | [相关仓库](#相关仓库) | [维护者](#维护者) | [如何贡献](#如何贡献) | [协议](#协议) | [English](README.en-US.md)
 
 ## 背景
 
@@ -37,11 +37,11 @@ github-repository-template
 
 ### 详细介绍
 
-1. README.md
+1. [README.md](README.md)
 
     > 自诉文件，包含仓库中文件相关信息的文本文件，通常是仓库访问者看到的第一个文件。自述文件连同仓库许可证、参与指南以及行为准则，帮助您交流要求和管理项目的参与。
 
-2. README.en-US.md
+2. [README.en-US.md](README.en-US.md)
 
     > 自诉文件英文版。
 
@@ -53,11 +53,11 @@ github-repository-template
 
     > gitignore文件指定Git应该忽略的故意未跟踪的文件。 Git已经跟踪的文件不受影响； 有关详细信息，请参见[链接](https://git-scm.com/docs/gitignore)。
 
-5. CHANGELOG.md
+5. [CHANGELOG.md](CHANGELOG.md)
 
     > 每次发布新版本时，记录新版本变化的特性，以及修改的bug等信息。
 
-6. CONTRIBUTING.md
+6. [CONTRIBUTING.md](CONTRIBUTING.md)
 
     > 贡献规范，比如代码编写规范，如果提问题、提bug、提需求，如何编写文档等。
 

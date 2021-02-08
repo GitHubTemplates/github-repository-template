@@ -37,11 +37,11 @@ github-repository-template
 
 ### 详细介绍
 
-1. README.md
+1. [README.md](README.md)
 
     > A text file containing information about the files in a repository that is typically the first file a visitor to your repository will see. A README file, along with a repository license, contribution guidelines, and a code of conduct, helps you share expectations and manage contributions to your project.
 
-2. README.en-US.md
+2. [README.en-US.md](README.en-US.md)
 
     > README use English.
 
@@ -53,11 +53,11 @@ github-repository-template
 
     > A gitignore file specifies intentionally untracked files that Git should ignore. Files already tracked by Git are not affected; see the [NOTES](https://git-scm.com/docs/gitignore).
 
-5. CHANGELOG.md
+5. [CHANGELOG.md](CHANGELOG.md)
 
     > Every time a new version is released, record the changed features of the new version, as well as the modified bug and other information.
 
-6. CONTRIBUTING.md
+6. [CONTRIBUTING.md](CONTRIBUTING.md)
 
     > Contribution specifications, such as code writing specifications, if you ask questions, raise bugs, raise requirements, how to write documents, etc.
 
