@@ -10,7 +10,7 @@
 
 ## 背景
 
-您可以生成具有与现有仓库相同的目录结构和文件的新仓库。如果有什么想法，欢迎来[讨论](https://github.com/GithubTemplate/github-repository-template/discussions)。
+您可以生成具有与现有仓库相同的目录结构和文件的新仓库。如果有什么想法，欢迎来[讨论](https://github.com/GitHubTemplates/github-repository-template/discussions)。
 
 [GitHub 说明地址](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template)
 
@@ -92,7 +92,7 @@ github-repository-template
 或者使用`gh`命令行创建项目
 
 ```
-gh repo create myRepository -p GithubTemplate/github-repository-template
+gh repo create myRepository -p GitHubTemplates/github-repository-template
 ```
 
 ## 示例
@@ -110,7 +110,7 @@ gh repo create myRepository -p GithubTemplate/github-repository-template
 
 ## 如何贡献
 
-非常欢迎你的加入！[提一个 Issue](https://github.com/GithubTemplate/github-repository-template/issues/new) 或者提交一个 Pull Request。
+非常欢迎你的加入！[提一个 Issue](https://github.com/GitHubTemplates/github-repository-template/issues/new) 或者提交一个 Pull Request。
 
 Github-Repository-Template 遵循 [Contributing](CONTRIBUTING.md) 编写规范。
 
@@ -120,11 +120,11 @@ Github-Repository-Template 遵循 [Contributor Covenant](http://contributor-cove
 
 [MIT © Bruce Maa.](LICENSE)
 
-[github-action-image]: https://github.com/GithubTemplate/github-repository-template/workflows/GithubRepositoryTemplate/badge.svg
-[github-repo-url]: https://github.com/GithubTemplate/github-repository-template
+[github-action-image]: https://github.com/GitHubTemplates/github-repository-template/workflows/GithubRepositoryTemplate/badge.svg
+[github-repo-url]: https://github.com/GitHubTemplates/github-repository-template
 [license-image]: https://img.shields.io/badge/license-MIT-green.svg
-[github-repo-star-image]: https://img.shields.io/github/stars/GithubTemplate/github-repository-template.svg?style=social
+[github-repo-star-image]: https://img.shields.io/github/stars/GitHubTemplates/github-repository-template.svg?style=social
 [use-this-template]: https://img.shields.io/badge/-use%20this%20template-brightgreen.svg
-[generate]: https://github.com/GithubTemplate/github-repository-template/generate
+[generate]: https://github.com/GitHubTemplates/github-repository-template/generate
 [standard-readme-image]: https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square
 [standard-readme-url]: https://github.com/RichardLitt/standard-readme
