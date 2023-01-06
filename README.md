@@ -61,7 +61,7 @@ github-repository-template
 
     > 贡献规范，比如代码编写规范，如果提问题、提bug、提需求，如何编写文档等。
 
-7. [.github/COMMIT_CONVERTION.md](.github/COMMIT_CONVERTION.md)
+7. [.github/COMMIT_CONVENTION.md](.github/COMMIT_CONVENTION.md)
 
     > git提交信息规范。
 
